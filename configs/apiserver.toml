@@ -1,0 +1,5 @@
+bind_addr = ":8000"
+log_level = "debug"
+
+[store]
+database_url = "root:L1t2y3b4c5!@/OnlineStore"
